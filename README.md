@@ -2,10 +2,12 @@
 <br>
 
 My name is **Rafael Fernando** <br>
-I'm Brazilian **Front-End Designer** 
-<br><br>
+I'm Brazilian **Front-End Designer** <br>
+Graduated in **Game Develop (2021)**
 
-I love to make cool applications with:  
+<br>
+
+I love to make cool applications and games with:  
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <br><br>
@@ -17,7 +19,7 @@ I'm currently studying:
 
 I intend to study:
 
-<img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />   <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />   <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" /> <img src="https://img.shields.io/badge/PixiJS-E91E63?style=for-the-badge&logo=white" /> <img src="https://img.shields.io/badge/PlayCanvas-D64E0E?style=for-the-badge&logo=white" /> 
 <br><br>
 
 My favorite OS:
