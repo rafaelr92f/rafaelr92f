@@ -2,8 +2,8 @@
 <br>
 
 My name is **Rafael Fernando** <br>
-I'm Brazilian **Front-End Designer** <br>
-Graduated in **Game Develop (2021)**
+I'm Brazilian **Front-End Designer / Game Developer** <br>
+And **Digital Game Technology** Graduate (2021)
 
 <br>
 
