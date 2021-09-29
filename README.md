@@ -19,7 +19,7 @@ I'm currently studying:
 
 I intend to study:
 
-<img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/React-0078d7?style=for-the-badge&logo=&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/react_native-0078d7.svg?style=for-the-badge&logo=&logoColor=%2361DAFB" />   <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/PixiJS-E91E63?style=for-the-badge&logo=white" /> <img src="https://img.shields.io/badge/PlayCanvas-D64E0E?style=for-the-badge&logo=white" /> 
+<img src="https://img.shields.io/badge/React-0078d7?style=for-the-badge&logo=&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/react_native-0078d7.svg?style=for-the-badge&logo=&logoColor=%2361DAFB" />   <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/PixiJS-E91E63?style=for-the-badge&logo=white" /> <img src="https://img.shields.io/badge/PlayCanvas-D64E0E?style=for-the-badge&logo=white" /> 
 <br><br>
 
 My favorite OS:
