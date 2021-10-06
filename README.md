@@ -2,7 +2,7 @@
 <br>
 
 My name is **Rafael Fernando** <br>
-I'm Brazilian **Front-End Designer / Game Artist** <br>
+I'm Brazilian **Front-End Developer and Designer / Game Artist Generalist (2D / 3D)** <br>
 And **Digital Game Technology** Graduate (2021)
 
 <br>
