@@ -14,7 +14,7 @@ I love to make cool applications and games with:
 
 I'm currently studying:
 
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=&logoColor=whit" /> <img src="https://img.shields.io/badge/Vue.js-0078d7?style=for-the-badge&logo=&logoColor=32475B" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-32475B?style=for-the-badge&logo=&logoColor=white" />
 <br><br>
 
 I intend to study:
