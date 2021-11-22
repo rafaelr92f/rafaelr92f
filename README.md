@@ -1,9 +1,9 @@
 ### Hi there! 👋
 <br>
 
-My name is **Rafael Fernando** <br>
-I'm Brazilian **Programmer / Designer / Game Artist** <br>
-And **Digital Game Technology** Graduate (2021)
+My name is **Rafael Fernando** :bearded_person:		 <br> 
+I'm Brazilian **Programmer / Designer / Game Artist** :brazil:	<br> 
+And **Digital Game Technology** Graduate (2021) :video_game:	
 
 <br>
 
