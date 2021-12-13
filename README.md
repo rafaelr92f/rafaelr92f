@@ -14,7 +14,7 @@ I love to make cool websites and games with:
 
 I'm currently studying:
 
-<img src="https://img.shields.io/badge/Spline 3D-E91E63?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/PlayCanvas-D64E0E?style=for-the-badge&logo=white" /> <img src="https://img.shields.io/badge/PixiJS-E91E63?style=for-the-badge&logo=white" />  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=&logoColor=white" /> 
+<img src="https://img.shields.io/badge/NODEJS-1ED760?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/REACTJS-1572B6?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/Spline 3D-E91E63?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/PlayCanvas-D64E0E?style=for-the-badge&logo=white" /> <img src="https://img.shields.io/badge/PixiJS-E91E63?style=for-the-badge&logo=white" />  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=&logoColor=white" /> 
 <br><br>
 
 My favorite OS:
