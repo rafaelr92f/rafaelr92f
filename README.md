@@ -1,7 +1,7 @@
 
 <h3 align="center">👋 Hi there! I'm Rafael :D </h3>
 <p align="center">
-  <a href="https://www.rafaelr92f.github.io">Portfolio</a> •
+  <a href="https://rafaelr92f.github.io/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/rafaelr92f/">Linkedin</a>
 </p>
 
