@@ -1,44 +1,22 @@
-### Hi there! 👋
-<br>
 
-My name is **Rafael Fernando** :bearded_person:		 <br> 
-I'm Brazilian **Programmer / Designer / Game Artist** :brazil:	<br> 
-And **Digital Game Technology** Graduate (2021) :video_game:	
+<h3 align="center">👋 Hi there! I'm Rafael :D </h3>
+<p align="center">
+  <a href="https://www.rafaelr92f.github.io">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/rafaelr92f/">Linkedin</a>
+</p>
 
-<br>
+---
 
-I love to make cool websites and games with:  
+#### I'm a Front-end Designer and UI/UX Designer.
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3 / sass-1572B6?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor=black" />
-<br><br>
+##### NOW
 
-I'm currently studying:
+- I'm teaching programming at @INDESBR 
+- I'm studying about `Node.js`, `React.JS` and Databases like `MongoDB` and `MySQL`.
 
-<img src="https://img.shields.io/badge/NODEJS-1ED760?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/REACTJS-1572B6?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/Spline 3D-E91E63?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/P5JS-E91E63?style=for-the-badge&logo=white" /> 
-<br><br>
+##### BIO
 
-My favorite OS:
-
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=&logoColor=white)
-<br><br>
-
-My favorite code editor:
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=&logoColor=white)
-<br><br>
-
-I can't live whitout these softwares:
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=&logoColor=white) 
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=&logoColor=EEF37B) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=&logoColor=white) 
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=&logoColor=white)
-<br><br>
-
-My networks:
-
-<a href="https://www.linkedin.com/in/rafaelr92f/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=&logoColor=white" /></a> 
-<a href="https://www.behance.net/rafaelr92f"> <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=&logoColor=white" /></a> 
-<a href="https://www.github.com/rafaelr92f"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=&logoColor=white" /> </a>
+- Graduate in Game Development by UNINOVE (2019 - 2021)
+- Postgraduate in Web Technologies by SENAC (2022 - 2023)
+- I design my projects ideas with `Figma` and develop my projects with `HTML`,`CSS` and `Javascript`
+- Other skills: `Git`, `Webpack`, `Babel`, `Sass`, `Uikit`, `TailwindCSS`, `Spline3D`, `Blender3D`, `Wordpress`, 
