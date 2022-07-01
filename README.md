@@ -7,7 +7,7 @@
 
 ---
 
-#### I'm a Front-end Designer and UI/UX Designer.
+#### I'm a Front-end Designer and UI / UX Designer.
 
 ##### NOW
 
