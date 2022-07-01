@@ -9,12 +9,13 @@
 
 #### I'm a Front-end and UI / UX Designer.
 
-##### NOW
+##### About me
 
-- I'm teaching programming at @INDESBR 
-- I'm studying about `Node.js`, `React.js` and Databases like `MongoDB` and `MySQL`.
+- I teach about programming at @INDESBR 
+- Now I'm studying about `Node.js`, `React.js` and Databases like `MongoDB` and `MySQL`.
 
-##### BIO
+
+##### More details
 
 - Graduate in Game Development by UNINOVE (2019 - 2021)
 - Postgraduate in Web Technologies by SENAC (2022 - 2023)
