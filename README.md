@@ -12,7 +12,7 @@
 ##### NOW
 
 - I'm teaching programming at @INDESBR 
-- I'm studying about `Node.js`, `React.JS` and Databases like `MongoDB` and `MySQL`.
+- I'm studying about `Node.js`, `React.js` and Databases like `MongoDB` and `MySQL`.
 
 ##### BIO
 
