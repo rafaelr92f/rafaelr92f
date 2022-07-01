@@ -19,4 +19,4 @@
 - Graduate in Game Development by UNINOVE (2019 - 2021)
 - Postgraduate in Web Technologies by SENAC (2022 - 2023)
 - I design my projects ideas with `Figma` and develop my projects with `HTML`,`CSS` and `Javascript`
-- Other skills: `Git`, `Webpack`, `Babel`, `Sass`, `Uikit`, `TailwindCSS`, `Spline3D`, `Blender3D`, `Wordpress`, 
+- Other skills: `Linux`, `Git`, `Webpack`, `Babel`, `Sass`, `Uikit`, `TailwindCSS`, `Spline3D`, `Blender3D`, `Wordpress`, 
