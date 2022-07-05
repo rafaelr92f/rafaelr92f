@@ -12,7 +12,7 @@
 ##### About me
 
 - I teach about programming at @INDESBR 
-- Now I'm studying about `Node.js`, `React.js` and Databases like `MongoDB` and `MySQL`.
+- Now I'm studying about `Node.js`, `React.js` and `Firebase`.
 
 
 ##### More details
