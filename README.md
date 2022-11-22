@@ -11,7 +11,7 @@
 
 ##### About me
 
-- I teach about programming at @INDESBR 
+- I teach about programming, games and educational robotics at @INDESBR 
 - Now I'm studying about `Node.js`, `Next.js` and `Firebase`.
 
 
@@ -20,4 +20,4 @@
 - Graduate in Game Development by UNINOVE (2019 - 2021)
 - Postgraduate in Web Technologies by SENAC (2022 - 2023)
 - I design my projects ideas with `Figma` and develop my projects with `HTML`,`CSS` and `Javascript`
-- Other skills: `Linux`, `Git`, `Webpack`, `Babel`, `Sass`, `Uikit`, `TailwindCSS`, `Spline3D`, `Blender3D`, `Wordpress`, `CANVAS`, `Three.js`
+- Other skills: `Linux`, `Git`, `Webpack`, `Babel`, `Sass`, `PixiJS`, `ThreeJS`, `TailwindCSS`, `Wordpress`, `Blender 3D`, `Arduino`, `Raspberry Pi`, `Godot engine`, `Gdevelop`.
